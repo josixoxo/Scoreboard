@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    text-align: center;
+    background: #111827;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+   
+   
+}
+
+#home, #guest {
+    
+   color: #EEEEEE;
+   font-size: 30px; 
+}
+
+#home-score, #guest-score {
+    padding: 10px 10px; 
+      background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 10px; 
+     
+}
+
+
+#hbtn, #gbtn{
+    
+    color: #9AABD8;
+    background: none; 
+    border-radius: 10px;
+    
+}
